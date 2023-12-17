@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1331145617
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animator/main camera.unity3d
+      Dependencies: {}
